@@ -22,7 +22,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Source Code Pro', monospace;
     animation-name: introduction;
     animation-duration: 2s;
 }
