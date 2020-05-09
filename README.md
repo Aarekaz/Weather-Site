@@ -1,4 +1,4 @@
-# A simple Weather app!
+# A simple Weather Site!
 This is a Simple project that I did using [Free Code Camp Weather API](https://fcc-weather-api.glitch.me/). Its a basic way to interact with a API. 
 
 The site sends the Longitude and Latitude to the api as ```https://fcc-weather-api.glitch.me//api/current?lon=:longitude&lat=:latitude```. Then the API sends back a respose like :
